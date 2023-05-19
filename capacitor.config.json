@@ -1,0 +1,11 @@
+{
+  "appId": "com.bugreport.capacitorjs.aidl",
+  "appName": "capacitorjs-aidl-bug-report",
+  "bundledWebRuntime": false,
+  "webDir": "dist",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  }
+}

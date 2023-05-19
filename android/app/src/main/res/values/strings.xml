@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">capacitorjs-aidl-bug-report</string>
+    <string name="title_activity_main">capacitorjs-aidl-bug-report</string>
+    <string name="package_name">com.bugreport.capacitorjs.aidl</string>
+    <string name="custom_url_scheme">com.bugreport.capacitorjs.aidl</string>
+</resources>
